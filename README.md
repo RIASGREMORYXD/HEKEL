@@ -23,6 +23,6 @@ $ python Cr4ck.py
 
 ### Screenshot
 * Note! Bila akunya cp simpan saja 1/5 hari nanti kebuka sendiri..
-<img src="https://github.com/RIASGREMORYXD/HEKEL/tree/main/img/IMG_120299_2891.jpg" />
+<img src="https://github.com/RIASGREMORYXD/HEKEL/tree/main/img" />
 
 
