@@ -23,6 +23,6 @@ $ python Cr4ck.py
 
 ### Screenshot
 * Note! Bila akunya cp simpan saja 1/5 hari nanti kebuka sendiri..
-<img src="https://github.com/Yayan-XD/Cr4ck/blob/main/img/IMG_20210527_152042.jpg" />
+<img src="https://github.com/RIASGREMORYXD/HEKEL/blob/main/img/IMG_20210527_152042.jpg" />
 
 
