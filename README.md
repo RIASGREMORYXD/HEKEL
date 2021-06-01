@@ -21,6 +21,8 @@ $ bash setup.sh
 $ python Cr4ck.py
 ```
 
+### SELAMAT ANDA JADI HEKEL WIBU
+
 ### Screenshot
 * Note! Bila akunya cp simpan saja 1/5 hari nanti kebuka sendiri..
 <img src="https://github.com/RIASGREMORYXD/HEKEL/tree/main/img/IMG_120299_2891.png" />
